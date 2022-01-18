@@ -15,7 +15,7 @@ for fruit in fruits:
 for i in change:
 	print(f"I got {i}")
 
-# we can also uild lists, first start with an empty one
+# we can also build lists, first start with an empty one
 #elements = []
 elements = list(range(6))
 
